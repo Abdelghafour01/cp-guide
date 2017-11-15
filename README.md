@@ -1,2 +1,1 @@
-# cp-guide
-A simple Guide for Competitive Programming Newbies
+# CPGuide: The Competitive Programmer's Guide
